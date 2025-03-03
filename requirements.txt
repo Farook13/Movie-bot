@@ -24,3 +24,4 @@ ffmpeg-python
 requests
 ytthumb
 setuptools>=70.0.0
+motor>=3.5.1
